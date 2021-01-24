@@ -3,7 +3,7 @@
  * This program reads a text file and prints the contents to the screen.
  *
  * @author Nirre Pluf {@literal <pluf@wfu.edu>}
- * @date Sept. 20, 2020
+ * @date Jan. 28, 2021
  * @assignment Lab 0
  * @course CSC 250
  **/
