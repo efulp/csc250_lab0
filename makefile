@@ -1,7 +1,7 @@
 # simple makefile for clang-tidy, clang-format, and compiling
 #
 # Nirre Pluf 
-# 9/20/2020
+# 1/28/2021
 # CSC 250 Lab 0
 
 SOURCE = read_file.c
